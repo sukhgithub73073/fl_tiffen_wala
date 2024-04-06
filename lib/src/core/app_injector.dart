@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'package:get_it/get_it.dart';
+import 'package:tiffen_wala/src/data/repository/register_repo.dart';
 
 typedef AppRunner = FutureOr<void> Function();
 
@@ -13,7 +14,7 @@ class AppInjector {
 
   static Future<void> _initDependencies() async {
     await GetIt.I.allReady();
-    // GetIt.I.registerSingleton<LoginRepository>(LoginRepositoryImp());
+    GetIt.I.registerSingleton<RegisterRepository>(RegisterRepositoryImp());
 
 
   }
