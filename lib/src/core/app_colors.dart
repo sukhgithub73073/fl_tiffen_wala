@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-Color get colorPrimary => Color(0xff0c46c4) ;
-Color get colorSecendry => Color(0xff28c2a0) ;
+Color get colorPrimary => Color(0xffFE724C) ;
+Color get colorSecendry => Color(0xff2A2F3D) ;
 Color get colorSecendryLight => Color(0x84b0e7db) ;
 Color get colorBlack => Color(0xff000000) ;
 Color get colorGray => Color(0xff646262) ;
