@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyChFLUMU_i9kApQT7GGJUz9ExxCCKhTBak</string>
+	<key>GCM_SENDER_ID</key>
+	<string>186787641697</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.qwerty.tiffenWala</string>
+	<key>PROJECT_ID</key>
+	<string>fl-tiffen-wala</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fl-tiffen-wala.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:186787641697:ios:f0289e2a56faa48d06ad20</string>
+</dict>
+</plist>
