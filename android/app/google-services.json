@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186787641697",
+    "project_id": "fl-tiffen-wala",
+    "storage_bucket": "fl-tiffen-wala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186787641697:android:86ac6c9c17afcff306ad20",
+        "android_client_info": {
+          "package_name": "com.qwerty.tiffen_wala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2hVAG96szDI7_KCeKGwKlevRUfROqMEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
